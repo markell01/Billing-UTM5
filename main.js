@@ -7,11 +7,11 @@ const xml2js = require('xml2js');
 const mariadb = require('mariadb');
 
 const pool = mariadb.createPool({
-  host: '10.2.1.43',
-  port: 3306,
-  user: 'root',
-  password: '1qa0ok',
-  database: 'UTM5intercom'
+  host: '***',
+  port: ***,
+  user: '***',
+  password: '***',
+  database: '***'
 });
 
 const app = express();
