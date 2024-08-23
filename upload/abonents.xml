@@ -1,0 +1,3552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UTM_export>
+<row>
+<row_id>0</row_id>
+<col_uid>1001116</col_uid>
+<col_login>1001116</col_login>
+<col_master_account>1001116</col_master_account>
+<col_full_name>Проскурина Виктория Сергеевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>154</col_Apartment_#>
+</row>
+<row>
+<row_id>1</row_id>
+<col_uid>1001139</col_uid>
+<col_login>1001139</col_login>
+<col_master_account>1001139</col_master_account>
+<col_full_name>Скачок Светлана Степановна</col_full_name>
+<col_status>Нет</col_status>9
+<col_ballance>29.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>37</col_Apartment_#>
+</row>
+<row>
+<row_id>2</row_id>
+<col_uid>1001141</col_uid>
+<col_login>1001141</col_login>
+<col_master_account>1001141</col_master_account>
+<col_full_name>Евтешина Раиса Валентиновна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-24.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>95</col_Apartment_#>
+</row>
+<row>
+<row_id>3</row_id>
+<col_uid>1001144</col_uid>
+<col_login>1001144</col_login>
+<col_master_account>1001144</col_master_account>
+<col_full_name>Медведева Людмила Николаевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-24.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>100</col_Apartment_#>
+</row>
+<row>
+<row_id>4</row_id>
+<col_uid>1001171</col_uid>
+<col_login>1001172</col_login>
+<col_master_account>1001171</col_master_account>
+<col_full_name>Чурсанова Зинаида Константиновна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-24.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>67</col_Apartment_#>
+</row>
+<row>
+<row_id>5</row_id>
+<col_uid>1001196</col_uid>
+<col_login>1001196</col_login>
+<col_master_account>1001196</col_master_account>
+<col_full_name>Марков Анатолий Иванович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-410.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>45</col_Apartment_#>
+</row>
+<row>
+<row_id>6</row_id>
+<col_uid>1001212</col_uid>
+<col_login>1001212</col_login>
+<col_master_account>1001212</col_master_account>
+<col_full_name>Феофанова Антонина Ефимовна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-500.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>42</col_Apartment_#>
+</row>
+<row>
+<row_id>7</row_id>
+<col_uid>1001236</col_uid>
+<col_login>1001236</col_login>
+<col_master_account>1001236</col_master_account>
+<col_full_name>Тимофеев Сергей Григорьевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-60.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>146</col_Apartment_#>
+</row>
+<row>
+<row_id>8</row_id>
+<col_uid>1001250</col_uid>
+<col_login>1001250</col_login>
+<col_master_account>1001250</col_master_account>
+<col_full_name>Шишкин Валерий Владимирович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-560.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>74</col_Apartment_#>
+</row>
+<row>
+<row_id>9</row_id>
+<col_uid>1001253</col_uid>
+<col_login>1001253</col_login>
+<col_master_account>1001253</col_master_account>
+<col_full_name>Чупрукова Тамара Михайловна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>57</col_Apartment_#>
+</row>
+<row>
+<row_id>10</row_id>
+<col_uid>1001306</col_uid>
+<col_login>1001306</col_login>
+<col_master_account>1001306</col_master_account>
+<col_full_name>Федотова Валентина Алексеевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-24.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>70</col_Apartment_#>
+</row>
+<row>
+<row_id>11</row_id>
+<col_uid>1001317</col_uid>
+<col_login>1001317</col_login>
+<col_master_account>1001317</col_master_account>
+<col_full_name>**Смирнова Нина Александровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>97</col_Apartment_#>
+</row>
+<row>
+<row_id>12</row_id>
+<col_uid>1001338</col_uid>
+<col_login>1001338</col_login>
+<col_master_account>1001338</col_master_account>
+<col_full_name>Дулова Марина Дмитриевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>240.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>77</col_Apartment_#>
+</row>
+<row>
+<row_id>13</row_id>
+<col_uid>1001342</col_uid>
+<col_login>1001342</col_login>
+<col_master_account>1001342</col_master_account>
+<col_full_name>Мишина Людмила Павловна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>209</col_Apartment_#>
+</row>
+<row>
+<row_id>14</row_id>
+<col_uid>1001372</col_uid>
+<col_login>1001372</col_login>
+<col_master_account>1001372</col_master_account>
+<col_full_name>Николаева Ольга Борисовна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-48.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>164</col_Apartment_#>
+</row>
+<row>
+<row_id>15</row_id>
+<col_uid>1001374</col_uid>
+<col_login>1001374</col_login>
+<col_master_account>1001374</col_master_account>
+<col_full_name>Смирнова Дина Рашидовна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>60.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>80</col_Apartment_#>
+</row>
+<row>
+<row_id>16</row_id>
+<col_uid>1001390</col_uid>
+<col_login>zzz1001390</col_login>
+<col_master_account>1001390</col_master_account>
+<col_full_name>***Флягин Дмитрий Михайлович</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>10.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>104</col_Apartment_#>
+</row>
+<row>
+<row_id>17</row_id>
+<col_uid>1001410</col_uid>
+<col_login>zzz1001410</col_login>
+<col_master_account>1001410</col_master_account>
+<col_full_name>***Варницына Лидия Александровна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-510.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>151</col_Apartment_#>
+</row>
+<row>
+<row_id>18</row_id>
+<col_uid>1001415</col_uid>
+<col_login>zzz1001415</col_login>
+<col_master_account>1001415</col_master_account>
+<col_full_name>***Родионова Светлана Сергеевна</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>-480.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>96</col_Apartment_#>
+</row>
+<row>
+<row_id>19</row_id>
+<col_uid>1001425</col_uid>
+<col_login>1001425</col_login>
+<col_master_account>1001425</col_master_account>
+<col_full_name>Герасимов Сергей Николаевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>71</col_Apartment_#>
+</row>
+<row>
+<row_id>20</row_id>
+<col_uid>1001485</col_uid>
+<col_login>zzz1001485</col_login>
+<col_master_account>1001485</col_master_account>
+<col_full_name>***Павлов Алексей Александрович</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>108</col_Apartment_#>
+</row>
+<row>
+<row_id>21</row_id>
+<col_uid>1001565</col_uid>
+<col_login>1001565</col_login>
+<col_master_account>1001565</col_master_account>
+<col_full_name>Осипова Ольга Аркадьевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>20.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>185</col_Apartment_#>
+</row>
+<row>
+<row_id>22</row_id>
+<col_uid>1001584</col_uid>
+<col_login>1001584</col_login>
+<col_master_account>1001584</col_master_account>
+<col_full_name>Воронина Галина Васильевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-880.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>187</col_Apartment_#>
+</row>
+<row>
+<row_id>23</row_id>
+<col_uid>1001680</col_uid>
+<col_login>1001681</col_login>
+<col_master_account>1001680</col_master_account>
+<col_full_name>Кузьмина Мария Андреевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>179</col_Apartment_#>
+</row>
+<row>
+<row_id>24</row_id>
+<col_uid>1001691</col_uid>
+<col_login>1001692</col_login>
+<col_master_account>1001691</col_master_account>
+<col_full_name>Королева Татьяна Дмитриевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-24.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>170</col_Apartment_#>
+</row>
+<row>
+<row_id>25</row_id>
+<col_uid>1001699</col_uid>
+<col_login>1001700</col_login>
+<col_master_account>1001699</col_master_account>
+<col_full_name>Зубова Наталья Валерьевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>720.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>56</col_Apartment_#>
+</row>
+<row>
+<row_id>26</row_id>
+<col_uid>1001712</col_uid>
+<col_login>zzz1001713</col_login>
+<col_master_account>1001712</col_master_account>
+<col_full_name>***Дмитриев Андрей Сергеевич</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-590.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>166</col_Apartment_#>
+</row>
+<row>
+<row_id>27</row_id>
+<col_uid>1001713</col_uid>
+<col_login>1001714</col_login>
+<col_master_account>1001713</col_master_account>
+<col_full_name>Трифонова Елена Вячеславовна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-672.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>48</col_Apartment_#>
+</row>
+<row>
+<row_id>28</row_id>
+<col_uid>1001737</col_uid>
+<col_login>1001738</col_login>
+<col_master_account>1001737</col_master_account>
+<col_full_name>Теплякова Галина Александровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-860.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>161</col_Apartment_#>
+</row>
+<row>
+<row_id>29</row_id>
+<col_uid>1001741</col_uid>
+<col_login>1001742</col_login>
+<col_master_account>1001741</col_master_account>
+<col_full_name>Аверин Алексей Анатольевич</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-560.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>145</col_Apartment_#>
+</row>
+<row>
+<row_id>30</row_id>
+<col_uid>1001743</col_uid>
+<col_login>1001744</col_login>
+<col_master_account>1001743</col_master_account>
+<col_full_name>Комарова Ирина Дмитриевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>104</col_Apartment_#>
+</row>
+<row>
+<row_id>31</row_id>
+<col_uid>1001745</col_uid>
+<col_login>1001746</col_login>
+<col_master_account>1001745</col_master_account>
+<col_full_name>Мудренов Сергей Алексеевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>54</col_Apartment_#>
+</row>
+<row>
+<row_id>32</row_id>
+<col_uid>1001761</col_uid>
+<col_login>1001762</col_login>
+<col_master_account>1001761</col_master_account>
+<col_full_name>Шарова Валентина Ивановна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>204</col_Apartment_#>
+</row>
+<row>
+<row_id>33</row_id>
+<col_uid>1001783</col_uid>
+<col_login>zzz1001784</col_login>
+<col_master_account>1001783</col_master_account>
+<col_full_name>***Можаева Людмила Александровна</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>40.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>55</col_Apartment_#>
+</row>
+<row>
+<row_id>34</row_id>
+<col_uid>1001794</col_uid>
+<col_login>1001795</col_login>
+<col_master_account>1001794</col_master_account>
+<col_full_name>Петрухин Алексей Валерьевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>59</col_Apartment_#>
+</row>
+<row>
+<row_id>35</row_id>
+<col_uid>1001796</col_uid>
+<col_login>1001797</col_login>
+<col_master_account>1001796</col_master_account>
+<col_full_name>Калинина Любовь Борисовна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>20.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>107</col_Apartment_#>
+</row>
+<row>
+<row_id>36</row_id>
+<col_uid>1001805</col_uid>
+<col_login>1001806</col_login>
+<col_master_account>1001805</col_master_account>
+<col_full_name>Глазова Фаина Михайловна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>240.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>177</col_Apartment_#>
+</row>
+<row>
+<row_id>37</row_id>
+<col_uid>1001843</col_uid>
+<col_login>1001844</col_login>
+<col_master_account>1001843</col_master_account>
+<col_full_name>Каматовская Светлана Владимировна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>400.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>198</col_Apartment_#>
+</row>
+<row>
+<row_id>38</row_id>
+<col_uid>1001861</col_uid>
+<col_login>1001862</col_login>
+<col_master_account>1001861</col_master_account>
+<col_full_name>Карпова Людмила Александровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>10.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>182</col_Apartment_#>
+</row>
+<row>
+<row_id>39</row_id>
+<col_uid>1001890</col_uid>
+<col_login>1001891</col_login>
+<col_master_account>1001890</col_master_account>
+<col_full_name>Герцкина Ольга Евгеньевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1258.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>203</col_Apartment_#>
+</row>
+<row>
+<row_id>40</row_id>
+<col_uid>1001902</col_uid>
+<col_login>1005959</col_login>
+<col_master_account>1001902</col_master_account>
+<col_full_name>Гороян Грайр Сосович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>101</col_Apartment_#>
+</row>
+<row>
+<row_id>41</row_id>
+<col_uid>1001933</col_uid>
+<col_login>1001934</col_login>
+<col_master_account>1001933</col_master_account>
+<col_full_name>Чернова Людмила Антоновна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-336.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>157</col_Apartment_#>
+</row>
+<row>
+<row_id>42</row_id>
+<col_uid>1001934</col_uid>
+<col_login>1001935</col_login>
+<col_master_account>1001934</col_master_account>
+<col_full_name>Юлдашева Галина Николаевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>165</col_Apartment_#>
+</row>
+<row>
+<row_id>43</row_id>
+<col_uid>1002018</col_uid>
+<col_login>1002018</col_login>
+<col_master_account>1002018</col_master_account>
+<col_full_name>Туча Наталья Викторовна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>24.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>91</col_Apartment_#>
+</row>
+<row>
+<row_id>44</row_id>
+<col_uid>1002025</col_uid>
+<col_login>1002025</col_login>
+<col_master_account>1002025</col_master_account>
+<col_full_name>Митина Нина Васильевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-20.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>150</col_Apartment_#>
+</row>
+<row>
+<row_id>45</row_id>
+<col_uid>1002038</col_uid>
+<col_login>1002038</col_login>
+<col_master_account>1002038</col_master_account>
+<col_full_name>Мокрушин Роман Николаевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>44.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>106</col_Apartment_#>
+</row>
+<row>
+<row_id>46</row_id>
+<col_uid>1002046</col_uid>
+<col_login>zzz1002046</col_login>
+<col_master_account>1002046</col_master_account>
+<col_full_name>***Иванова Лидия Михайловна</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>20.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>172</col_Apartment_#>
+</row>
+<row>
+<row_id>47</row_id>
+<col_uid>1002070</col_uid>
+<col_login>1002070</col_login>
+<col_master_account>1002070</col_master_account>
+<col_full_name>Тюрина Валентина Ильинична</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>94</col_Apartment_#>
+</row>
+<row>
+<row_id>48</row_id>
+<col_uid>1002080</col_uid>
+<col_login>1002080</col_login>
+<col_master_account>1002080</col_master_account>
+<col_full_name>Андреев Борис Борисович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>99</col_Apartment_#>
+</row>
+<row>
+<row_id>49</row_id>
+<col_uid>1002099</col_uid>
+<col_login>1002099</col_login>
+<col_master_account>1002099</col_master_account>
+<col_full_name>Шаповалова Татьяна Юрьевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-672.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>149</col_Apartment_#>
+</row>
+<row>
+<row_id>50</row_id>
+<col_uid>1002132</col_uid>
+<col_login>1002132</col_login>
+<col_master_account>1002132</col_master_account>
+<col_full_name>Андреева Елена Константиновна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-152.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>53</col_Apartment_#>
+</row>
+<row>
+<row_id>51</row_id>
+<col_uid>1002140</col_uid>
+<col_login>1002140</col_login>
+<col_master_account>1002140</col_master_account>
+<col_full_name>Иванов Анатолий Александрович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-24.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>159</col_Apartment_#>
+</row>
+<row>
+<row_id>52</row_id>
+<col_uid>1002181</col_uid>
+<col_login>1002181</col_login>
+<col_master_account>1002181</col_master_account>
+<col_full_name>Соболев Александр Евгеньевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-58.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>160</col_Apartment_#>
+</row>
+<row>
+<row_id>53</row_id>
+<col_uid>1002213</col_uid>
+<col_login>1002213</col_login>
+<col_master_account>1002213</col_master_account>
+<col_full_name>Овчинникова Валентина Илларионовна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>192</col_Apartment_#>
+</row>
+<row>
+<row_id>54</row_id>
+<col_uid>1002220</col_uid>
+<col_login>1002220</col_login>
+<col_master_account>1002220</col_master_account>
+<col_full_name>Криворотова Александра Алексеевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-48.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>212</col_Apartment_#>
+</row>
+<row>
+<row_id>55</row_id>
+<col_uid>1002268</col_uid>
+<col_login>1002268</col_login>
+<col_master_account>1002268</col_master_account>
+<col_full_name>Полякова Лидия Валентиновна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-560.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>162</col_Apartment_#>
+</row>
+<row>
+<row_id>56</row_id>
+<col_uid>1002269</col_uid>
+<col_login>1002269</col_login>
+<col_master_account>1002269</col_master_account>
+<col_full_name>Романова Екатерина Сергеевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-336.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>148</col_Apartment_#>
+</row>
+<row>
+<row_id>57</row_id>
+<col_uid>1002283</col_uid>
+<col_login>1002283</col_login>
+<col_master_account>1002283</col_master_account>
+<col_full_name>Агеева Тамара Анатольевна </col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-500.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>181</col_Apartment_#>
+</row>
+<row>
+<row_id>58</row_id>
+<col_uid>1002307</col_uid>
+<col_login>1002307</col_login>
+<col_master_account>1002307</col_master_account>
+<col_full_name>Поддубко Лариса Александровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>191</col_Apartment_#>
+</row>
+<row>
+<row_id>59</row_id>
+<col_uid>1002317</col_uid>
+<col_login>1002317</col_login>
+<col_master_account>1002317</col_master_account>
+<col_full_name>Обухова Светлана Ивановна </col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>66</col_Apartment_#>
+</row>
+<row>
+<row_id>60</row_id>
+<col_uid>1002361</col_uid>
+<col_login>1002361</col_login>
+<col_master_account>1002361</col_master_account>
+<col_full_name>Романова Наталья Анатольевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-24.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>167</col_Apartment_#>
+</row>
+<row>
+<row_id>61</row_id>
+<col_uid>1002382</col_uid>
+<col_login>zzz1002382</col_login>
+<col_master_account>1002382</col_master_account>
+<col_full_name>***Ивлева Ирина Константиновна</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>-60.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>175</col_Apartment_#>
+</row>
+<row>
+<row_id>62</row_id>
+<col_uid>1002440</col_uid>
+<col_login>zzz1002440</col_login>
+<col_master_account>1002440</col_master_account>
+<col_full_name>***Викторова Лидия Валентиновна</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>173</col_Apartment_#>
+</row>
+<row>
+<row_id>63</row_id>
+<col_uid>1002443</col_uid>
+<col_login>1002443</col_login>
+<col_master_account>1002443</col_master_account>
+<col_full_name>Журавкова Валентина Ивановна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-294.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>174</col_Apartment_#>
+</row>
+<row>
+<row_id>64</row_id>
+<col_uid>1002496</col_uid>
+<col_login>zzz1002496</col_login>
+<col_master_account>1002496</col_master_account>
+<col_full_name>***Шигин Валентин Сергеевич</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>183</col_Apartment_#>
+</row>
+<row>
+<row_id>65</row_id>
+<col_uid>1002578</col_uid>
+<col_login>1002578</col_login>
+<col_master_account>1002578</col_master_account>
+<col_full_name>Дмитриева Анна Дмитриевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>70.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>166</col_Apartment_#>
+</row>
+<row>
+<row_id>66</row_id>
+<col_uid>1002628</col_uid>
+<col_login>1002628</col_login>
+<col_master_account>1002628</col_master_account>
+<col_full_name>Коваленко Любовь Владимировна </col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1060.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>184</col_Apartment_#>
+</row>
+<row>
+<row_id>67</row_id>
+<col_uid>1002633</col_uid>
+<col_login>1002633</col_login>
+<col_master_account>1002633</col_master_account>
+<col_full_name>Платонов Сергей Владимирович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-632.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>180</col_Apartment_#>
+</row>
+<row>
+<row_id>68</row_id>
+<col_uid>1002710</col_uid>
+<col_login>1002710</col_login>
+<col_master_account>1002710</col_master_account>
+<col_full_name>Дугина Елена Александровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>240.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>83</col_Apartment_#>
+</row>
+<row>
+<row_id>69</row_id>
+<col_uid>1002737</col_uid>
+<col_login>1002737</col_login>
+<col_master_account>1002737</col_master_account>
+<col_full_name>Аниховская Галина Николаевна </col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-118.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>64</col_Apartment_#>
+</row>
+<row>
+<row_id>70</row_id>
+<col_uid>1002767</col_uid>
+<col_login>1002767</col_login>
+<col_master_account>1002767</col_master_account>
+<col_full_name>Волошина Ольга Валентиновна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>194</col_Apartment_#>
+</row>
+<row>
+<row_id>71</row_id>
+<col_uid>1002859</col_uid>
+<col_login>1002859</col_login>
+<col_master_account>1002859</col_master_account>
+<col_full_name>*Гаранина Ирина Юрьевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-168.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>105</col_Apartment_#>
+</row>
+<row>
+<row_id>72</row_id>
+<col_uid>1002864</col_uid>
+<col_login>1002864</col_login>
+<col_master_account>1002864</col_master_account>
+<col_full_name>Куличенко Татьяна Анатольевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>79</col_Apartment_#>
+</row>
+<row>
+<row_id>73</row_id>
+<col_uid>1002885</col_uid>
+<col_login>1002885</col_login>
+<col_master_account>1002885</col_master_account>
+<col_full_name>Сурилов Андрей Валериевич</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-336.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>76</col_Apartment_#>
+</row>
+<row>
+<row_id>74</row_id>
+<col_uid>1002936</col_uid>
+<col_login>1002936</col_login>
+<col_master_account>1002936</col_master_account>
+<col_full_name>Кривоногов Андрей Александрович </col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-440.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-липа 2</col_Actual_address>
+<col_Apartment_#>84</col_Apartment_#>
+</row>
+<row>
+<row_id>75</row_id>
+<col_uid>1003002</col_uid>
+<col_login>1003002</col_login>
+<col_master_account>1003002</col_master_account>
+<col_full_name>Лисицина Марина Анатольевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-96.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>72</col_Apartment_#>
+</row>
+<row>
+<row_id>76</row_id>
+<col_uid>1003010</col_uid>
+<col_login>zzz1003010</col_login>
+<col_master_account>1003010</col_master_account>
+<col_full_name>***Морозов Иван Васильевич</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>30.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>211</col_Apartment_#>
+</row>
+<row>
+<row_id>77</row_id>
+<col_uid>1003022</col_uid>
+<col_login>zzz1003022</col_login>
+<col_master_account>1003022</col_master_account>
+<col_full_name>***Крылатых Лидия Николаевна</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>-460.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>200</col_Apartment_#>
+</row>
+<row>
+<row_id>78</row_id>
+<col_uid>1003163</col_uid>
+<col_login>1003163</col_login>
+<col_master_account>1003163</col_master_account>
+<col_full_name>Михель Олеся Андреевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1240.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>73</col_Apartment_#>
+</row>
+<row>
+<row_id>79</row_id>
+<col_uid>1003271</col_uid>
+<col_login>1003272</col_login>
+<col_master_account>1003272</col_master_account>
+<col_full_name>Староверова Лидия Алексеевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-780.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>210</col_Apartment_#>
+</row>
+<row>
+<row_id>80</row_id>
+<col_uid>1003319</col_uid>
+<col_login>1005960</col_login>
+<col_master_account>1003320</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1600.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>102</col_Apartment_#>
+</row>
+<row>
+<row_id>81</row_id>
+<col_uid>1003323</col_uid>
+<col_login>zzz1003324</col_login>
+<col_master_account>1003324</col_master_account>
+<col_full_name>***Смирнова Лидия Николаевна</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>-220.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>215</col_Apartment_#>
+</row>
+<row>
+<row_id>82</row_id>
+<col_uid>1003327</col_uid>
+<col_login>1003328</col_login>
+<col_master_account>1003328</col_master_account>
+<col_full_name>Парфенова Евгения Александровна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>43</col_Apartment_#>
+</row>
+<row>
+<row_id>83</row_id>
+<col_uid>1003331</col_uid>
+<col_login>1003332</col_login>
+<col_master_account>1003332</col_master_account>
+<col_full_name>Денисова Елена Борисовна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>41</col_Apartment_#>
+</row>
+<row>
+<row_id>84</row_id>
+<col_uid>1003404</col_uid>
+<col_login>zzz1003405</col_login>
+<col_master_account>1003405</col_master_account>
+<col_full_name>***Мартынова Валентина Алексеевна</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>158</col_Apartment_#>
+</row>
+<row>
+<row_id>85</row_id>
+<col_uid>1003453</col_uid>
+<col_login>1003454</col_login>
+<col_master_account>1003454</col_master_account>
+<col_full_name>Адиларянц Александр Гайкович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>60</col_Apartment_#>
+</row>
+<row>
+<row_id>86</row_id>
+<col_uid>1003482</col_uid>
+<col_login>1003483</col_login>
+<col_master_account>1003483</col_master_account>
+<col_full_name>Кулакова Вера Анатольевна </col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-48.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>201</col_Apartment_#>
+</row>
+<row>
+<row_id>87</row_id>
+<col_uid>1003486</col_uid>
+<col_login>1003487</col_login>
+<col_master_account>1003487</col_master_account>
+<col_full_name>Павлова Наталья Борисовна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-364.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>169</col_Apartment_#>
+</row>
+<row>
+<row_id>88</row_id>
+<col_uid>1003548</col_uid>
+<col_login>1003549</col_login>
+<col_master_account>1003549</col_master_account>
+<col_full_name>Тимофеева Светлана Владимировна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1360.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>175</col_Apartment_#>
+</row>
+<row>
+<row_id>89</row_id>
+<col_uid>1003584</col_uid>
+<col_login>1003585</col_login>
+<col_master_account>1003585</col_master_account>
+<col_full_name>Носков Андрей Алексеевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-880.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>168</col_Apartment_#>
+</row>
+<row>
+<row_id>90</row_id>
+<col_uid>1003628</col_uid>
+<col_login>zzz1003629</col_login>
+<col_master_account>1003629</col_master_account>
+<col_full_name>***Гончаров Сергей Викторович</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>46</col_Apartment_#>
+</row>
+<row>
+<row_id>91</row_id>
+<col_uid>1003646</col_uid>
+<col_login>1003648</col_login>
+<col_master_account>1003648</col_master_account>
+<col_full_name>Жарков Андрей Сергеевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>98</col_Apartment_#>
+</row>
+<row>
+<row_id>92</row_id>
+<col_uid>1003656</col_uid>
+<col_login>1003658</col_login>
+<col_master_account>1003658</col_master_account>
+<col_full_name>Зайцева Валентина Петровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>52</col_Apartment_#>
+</row>
+<row>
+<row_id>93</row_id>
+<col_uid>1003660</col_uid>
+<col_login>1003662</col_login>
+<col_master_account>1003662</col_master_account>
+<col_full_name>Воронина Марина Николаевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>117</col_Apartment_#>
+</row>
+<row>
+<row_id>94</row_id>
+<col_uid>1003663</col_uid>
+<col_login>1003665</col_login>
+<col_master_account>1003665</col_master_account>
+<col_full_name>Иванова Зинаида Федоровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>240.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>120</col_Apartment_#>
+</row>
+<row>
+<row_id>95</row_id>
+<col_uid>1003664</col_uid>
+<col_login>1003666</col_login>
+<col_master_account>1003666</col_master_account>
+<col_full_name>Антонова Маргарита Афанасьевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>139</col_Apartment_#>
+</row>
+<row>
+<row_id>96</row_id>
+<col_uid>1003665</col_uid>
+<col_login>1003667</col_login>
+<col_master_account>1003667</col_master_account>
+<col_full_name>Кобзева Надежда Александровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-48.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>129</col_Apartment_#>
+</row>
+<row>
+<row_id>97</row_id>
+<col_uid>1003666</col_uid>
+<col_login>1003668</col_login>
+<col_master_account>1003668</col_master_account>
+<col_full_name>Сидорова Вера Павловна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-260.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>112</col_Apartment_#>
+</row>
+<row>
+<row_id>98</row_id>
+<col_uid>1003667</col_uid>
+<col_login>1003669</col_login>
+<col_master_account>1003669</col_master_account>
+<col_full_name>*Похлебенин Вячеслав Анатольевич</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-20.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>135</col_Apartment_#>
+</row>
+<row>
+<row_id>99</row_id>
+<col_uid>1003670</col_uid>
+<col_login>1003672</col_login>
+<col_master_account>1003672</col_master_account>
+<col_full_name>Боднар Ольга Александровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>143</col_Apartment_#>
+</row>
+<row>
+<row_id>100</row_id>
+<col_uid>1003673</col_uid>
+<col_login>1003675</col_login>
+<col_master_account>1003675</col_master_account>
+<col_full_name>Русина Татьяна Ивановна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>134</col_Apartment_#>
+</row>
+<row>
+<row_id>101</row_id>
+<col_uid>1003675</col_uid>
+<col_login>1003677</col_login>
+<col_master_account>1003677</col_master_account>
+<col_full_name>Потапова Маргарита Александровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>110.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>121</col_Apartment_#>
+</row>
+<row>
+<row_id>102</row_id>
+<col_uid>1003680</col_uid>
+<col_login>1003682</col_login>
+<col_master_account>1003682</col_master_account>
+<col_full_name>Маслова Марина Константиновна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1360.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>132</col_Apartment_#>
+</row>
+<row>
+<row_id>103</row_id>
+<col_uid>1003682</col_uid>
+<col_login>1003684</col_login>
+<col_master_account>1003684</col_master_account>
+<col_full_name>Андреева Марина Владимировна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-48.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>110</col_Apartment_#>
+</row>
+<row>
+<row_id>104</row_id>
+<col_uid>1003686</col_uid>
+<col_login>1003688</col_login>
+<col_master_account>1003688</col_master_account>
+<col_full_name>Булденков Федор Александрович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-560.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>131</col_Apartment_#>
+</row>
+<row>
+<row_id>105</row_id>
+<col_uid>1003714</col_uid>
+<col_login>1003716</col_login>
+<col_master_account>1003716</col_master_account>
+<col_full_name>Шибаева Анастасия Вадимовна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-24.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>128</col_Apartment_#>
+</row>
+<row>
+<row_id>106</row_id>
+<col_uid>1003717</col_uid>
+<col_login>1003719</col_login>
+<col_master_account>1003719</col_master_account>
+<col_full_name>Мухутдинова Юлия Валерьевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-528.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>89</col_Apartment_#>
+</row>
+<row>
+<row_id>107</row_id>
+<col_uid>1003726</col_uid>
+<col_login>1003728</col_login>
+<col_master_account>1003728</col_master_account>
+<col_full_name>*Кочергина Марина Джумберовна </col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-880.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>125</col_Apartment_#>
+</row>
+<row>
+<row_id>108</row_id>
+<col_uid>1003781</col_uid>
+<col_login>1003783</col_login>
+<col_master_account>1003783</col_master_account>
+<col_full_name>Жученкова Марина Владимировна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-620.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>140</col_Apartment_#>
+</row>
+<row>
+<row_id>109</row_id>
+<col_uid>1003785</col_uid>
+<col_login>1003787</col_login>
+<col_master_account>1003787</col_master_account>
+<col_full_name>Хачатурян Агоник Ивановна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1240.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>213</col_Apartment_#>
+</row>
+<row>
+<row_id>110</row_id>
+<col_uid>1003788</col_uid>
+<col_login>1003790</col_login>
+<col_master_account>1003790</col_master_account>
+<col_full_name>Ахсахалян Галина Григорьевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-392.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>144</col_Apartment_#>
+</row>
+<row>
+<row_id>111</row_id>
+<col_uid>1003797</col_uid>
+<col_login>1003799</col_login>
+<col_master_account>1003799</col_master_account>
+<col_full_name>Староверова Валентина Григорьевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-440.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>113</col_Apartment_#>
+</row>
+<row>
+<row_id>112</row_id>
+<col_uid>1003803</col_uid>
+<col_login>1003805</col_login>
+<col_master_account>1003805</col_master_account>
+<col_full_name>Паласторова Светлана Георгиевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-96.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>133</col_Apartment_#>
+</row>
+<row>
+<row_id>113</row_id>
+<col_uid>1003850</col_uid>
+<col_login>1003852</col_login>
+<col_master_account>1003852</col_master_account>
+<col_full_name>Акимов Вадим Борисович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-680.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>130</col_Apartment_#>
+</row>
+<row>
+<row_id>114</row_id>
+<col_uid>1003851</col_uid>
+<col_login>1003853</col_login>
+<col_master_account>1003853</col_master_account>
+<col_full_name>Жученкова Наталья Николаевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1060.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>122</col_Apartment_#>
+</row>
+<row>
+<row_id>115</row_id>
+<col_uid>1003852</col_uid>
+<col_login>1003854</col_login>
+<col_master_account>1003854</col_master_account>
+<col_full_name>Жученкова Наталья Николаевна </col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1060.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>124</col_Apartment_#>
+</row>
+<row>
+<row_id>116</row_id>
+<col_uid>1003921</col_uid>
+<col_login>1003923</col_login>
+<col_master_account>1003923</col_master_account>
+<col_full_name>Хамидова Фарзона Анваржоновна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>46</col_Apartment_#>
+</row>
+<row>
+<row_id>117</row_id>
+<col_uid>1003949</col_uid>
+<col_login>1003951</col_login>
+<col_master_account>1003951</col_master_account>
+<col_full_name>Ермолова Мария Викторовна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>50</col_Apartment_#>
+</row>
+<row>
+<row_id>118</row_id>
+<col_uid>1003961</col_uid>
+<col_login>1003963</col_login>
+<col_master_account>1003963</col_master_account>
+<col_full_name>Косая Ирина Рудольфовна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1240.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>197</col_Apartment_#>
+</row>
+<row>
+<row_id>119</row_id>
+<col_uid>1003973</col_uid>
+<col_login>1003975</col_login>
+<col_master_account>1003975</col_master_account>
+<col_full_name>Крайнов Александр Васильевич</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-336.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>126</col_Apartment_#>
+</row>
+<row>
+<row_id>120</row_id>
+<col_uid>1004009</col_uid>
+<col_login>1004011</col_login>
+<col_master_account>1004011</col_master_account>
+<col_full_name>Калинина Надежда Васильевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>36.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>202</col_Apartment_#>
+</row>
+<row>
+<row_id>121</row_id>
+<col_uid>1004039</col_uid>
+<col_login>zzz1004041</col_login>
+<col_master_account>1004041</col_master_account>
+<col_full_name>***Чугунов Владимир Александрович</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>100.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>206</col_Apartment_#>
+</row>
+<row>
+<row_id>122</row_id>
+<col_uid>1004040</col_uid>
+<col_login>1004042</col_login>
+<col_master_account>1004042</col_master_account>
+<col_full_name>**Мартынов Андрей Сергеевич</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>-252.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>158</col_Apartment_#>
+</row>
+<row>
+<row_id>123</row_id>
+<col_uid>1004055</col_uid>
+<col_login>zzz1004057</col_login>
+<col_master_account>1004057</col_master_account>
+<col_full_name>***Дадашова Алёна Аркадьевна</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>44</col_Apartment_#>
+</row>
+<row>
+<row_id>124</row_id>
+<col_uid>1004198</col_uid>
+<col_login>1004200</col_login>
+<col_master_account>1004200</col_master_account>
+<col_full_name>Осипов Виталий Павлович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>69</col_Apartment_#>
+</row>
+<row>
+<row_id>125</row_id>
+<col_uid>1004257</col_uid>
+<col_login>1004259</col_login>
+<col_master_account>1004259</col_master_account>
+<col_full_name>Короткова Светлана Валентиновна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>61</col_Apartment_#>
+</row>
+<row>
+<row_id>126</row_id>
+<col_uid>1004277</col_uid>
+<col_login>1004279</col_login>
+<col_master_account>1004279</col_master_account>
+<col_full_name>Буйлова Ирина Николаевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-24.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>215</col_Apartment_#>
+</row>
+<row>
+<row_id>127</row_id>
+<col_uid>1004335</col_uid>
+<col_login>1004337</col_login>
+<col_master_account>1004337</col_master_account>
+<col_full_name>Чекушкина Светлана Анатольевна </col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>141</col_Apartment_#>
+</row>
+<row>
+<row_id>128</row_id>
+<col_uid>1004419</col_uid>
+<col_login>zzz1004420</col_login>
+<col_master_account>1004441</col_master_account>
+<col_full_name>***Горбунова Екатерина Вячеславовна</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>114</col_Apartment_#>
+</row>
+<row>
+<row_id>129</row_id>
+<col_uid>1004421</col_uid>
+<col_login>1004422</col_login>
+<col_master_account>1004446</col_master_account>
+<col_full_name>Боднар Сергей Теодорович </col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-266.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>29</col_Apartment_#>
+</row>
+<row>
+<row_id>130</row_id>
+<col_uid>1004423</col_uid>
+<col_login>1004424</col_login>
+<col_master_account>1004453</col_master_account>
+<col_full_name>Зайцев Леонид Павлович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-532.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>11</col_Apartment_#>
+</row>
+<row>
+<row_id>131</row_id>
+<col_uid>1004424</col_uid>
+<col_login>1004425</col_login>
+<col_master_account>1004454</col_master_account>
+<col_full_name>Шкунников Роман Владимирович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>245</col_Apartment_#>
+</row>
+<row>
+<row_id>132</row_id>
+<col_uid>1004425</col_uid>
+<col_login>1004426</col_login>
+<col_master_account>1004455</col_master_account>
+<col_full_name>Павлов Дмитрий Геннадьевич</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-752.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>214</col_Apartment_#>
+</row>
+<row>
+<row_id>133</row_id>
+<col_uid>1004427</col_uid>
+<col_login>1004428</col_login>
+<col_master_account>1004460</col_master_account>
+<col_full_name>Платонов Илья Владимирович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-308.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>13</col_Apartment_#>
+</row>
+<row>
+<row_id>134</row_id>
+<col_uid>1004429</col_uid>
+<col_login>1004462</col_login>
+<col_master_account>1004465</col_master_account>
+<col_full_name>Шорина Елена Вячеславовна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-266.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>15</col_Apartment_#>
+</row>
+<row>
+<row_id>135</row_id>
+<col_uid>1004431</col_uid>
+<col_login>1004466</col_login>
+<col_master_account>1004467</col_master_account>
+<col_full_name>Радченко Евгений Александрович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-540.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>93</col_Apartment_#>
+</row>
+<row>
+<row_id>136</row_id>
+<col_uid>1004443</col_uid>
+<col_login>1004436</col_login>
+<col_master_account>1004485</col_master_account>
+<col_full_name>Васильева Людмила Александровна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-308.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>7</col_Apartment_#>
+</row>
+<row>
+<row_id>137</row_id>
+<col_uid>1004445</col_uid>
+<col_login>1004438</col_login>
+<col_master_account>1004489</col_master_account>
+<col_full_name>Крылатых Леонид Иванович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-672.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>200</col_Apartment_#>
+</row>
+<row>
+<row_id>138</row_id>
+<col_uid>1004446</col_uid>
+<col_login>1004439</col_login>
+<col_master_account>1004492</col_master_account>
+<col_full_name>Масленникова Ольга Андреевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-70.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>3</col_Apartment_#>
+</row>
+<row>
+<row_id>139</row_id>
+<col_uid>1004459</col_uid>
+<col_login>1004452</col_login>
+<col_master_account>1004505</col_master_account>
+<col_full_name>Ткачук Тамара Васильевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-336.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>206</col_Apartment_#>
+</row>
+<row>
+<row_id>140</row_id>
+<col_uid>1004463</col_uid>
+<col_login>1004456</col_login>
+<col_master_account>1004512</col_master_account>
+<col_full_name>Федотова Надежда Леонидовна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>85</col_Apartment_#>
+</row>
+<row>
+<row_id>141</row_id>
+<col_uid>1004467</col_uid>
+<col_login>1004460</col_login>
+<col_master_account>1004517</col_master_account>
+<col_full_name>Худоидодов Сухроб Махрамович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>92</col_Apartment_#>
+</row>
+<row>
+<row_id>142</row_id>
+<col_uid>1004472</col_uid>
+<col_login>1004472</col_login>
+<col_master_account>1004524</col_master_account>
+<col_full_name>Михайлина Таисия Николаевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-14.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>238</col_Apartment_#>
+</row>
+<row>
+<row_id>143</row_id>
+<col_uid>1004475</col_uid>
+<col_login>1004475</col_login>
+<col_master_account>1004527</col_master_account>
+<col_full_name>Морозова Елена Владимировна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>70.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>234</col_Apartment_#>
+</row>
+<row>
+<row_id>144</row_id>
+<col_uid>1004483</col_uid>
+<col_login>1004485</col_login>
+<col_master_account>1004538</col_master_account>
+<col_full_name>Уколова Галина Владимировна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-266.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>31</col_Apartment_#>
+</row>
+<row>
+<row_id>145</row_id>
+<col_uid>1004487</col_uid>
+<col_login>1004489</col_login>
+<col_master_account>1004543</col_master_account>
+<col_full_name>Найшева Валентина Борисовна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-532.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>19</col_Apartment_#>
+</row>
+<row>
+<row_id>146</row_id>
+<col_uid>1004494</col_uid>
+<col_login>1004496</col_login>
+<col_master_account>1004553</col_master_account>
+<col_full_name>Штамбурова Наталья Адольфовна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>18</col_Apartment_#>
+</row>
+<row>
+<row_id>147</row_id>
+<col_uid>1004495</col_uid>
+<col_login>1004497</col_login>
+<col_master_account>1004555</col_master_account>
+<col_full_name>Савельев Геннадий Иванович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-98.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>235</col_Apartment_#>
+</row>
+<row>
+<row_id>148</row_id>
+<col_uid>1004505</col_uid>
+<col_login>1004507</col_login>
+<col_master_account>1004565</col_master_account>
+<col_full_name>Васькин Михаил Александрович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-532.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>22</col_Apartment_#>
+</row>
+<row>
+<row_id>149</row_id>
+<col_uid>1004525</col_uid>
+<col_login>1004527</col_login>
+<col_master_account>1004585</col_master_account>
+<col_full_name>Золян Ануш Ваниковна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>63</col_Apartment_#>
+</row>
+<row>
+<row_id>150</row_id>
+<col_uid>1004540</col_uid>
+<col_login>1004542</col_login>
+<col_master_account>1004600</col_master_account>
+<col_full_name>Рождаева Татьяна Александровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>96</col_Apartment_#>
+</row>
+<row>
+<row_id>151</row_id>
+<col_uid>1004556</col_uid>
+<col_login>1004558</col_login>
+<col_master_account>1004617</col_master_account>
+<col_full_name>Жаркова Ольга Сергеевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>47</col_Apartment_#>
+</row>
+<row>
+<row_id>152</row_id>
+<col_uid>1004580</col_uid>
+<col_login>1004582</col_login>
+<col_master_account>1004643</col_master_account>
+<col_full_name>Журенкова Наталья Юрьевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-336.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>103</col_Apartment_#>
+</row>
+<row>
+<row_id>153</row_id>
+<col_uid>1004615</col_uid>
+<col_login>1004617</col_login>
+<col_master_account>1004680</col_master_account>
+<col_full_name>Кузнецова Вера Александровна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>190</col_Apartment_#>
+</row>
+<row>
+<row_id>154</row_id>
+<col_uid>1004640</col_uid>
+<col_login>1004642</col_login>
+<col_master_account>1004707</col_master_account>
+<col_full_name>Сапрыкин Александр Сергеевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>87</col_Apartment_#>
+</row>
+<row>
+<row_id>155</row_id>
+<col_uid>1004669</col_uid>
+<col_login>1004671</col_login>
+<col_master_account>1004737</col_master_account>
+<col_full_name>Голованов Александр Константинович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-440.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>82</col_Apartment_#>
+</row>
+<row>
+<row_id>156</row_id>
+<col_uid>1004691</col_uid>
+<col_login>1004693</col_login>
+<col_master_account>1004759</col_master_account>
+<col_full_name>Жаров Денис Вячеславович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>208</col_Apartment_#>
+</row>
+<row>
+<row_id>157</row_id>
+<col_uid>1004734</col_uid>
+<col_login>1004736</col_login>
+<col_master_account>1004805</col_master_account>
+<col_full_name>Старикова Татьяна Ивановна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>240.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>153</col_Apartment_#>
+</row>
+<row>
+<row_id>158</row_id>
+<col_uid>1004738</col_uid>
+<col_login>1004740</col_login>
+<col_master_account>1004809</col_master_account>
+<col_full_name>Сущёв Сергей Владимирович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-292.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>68</col_Apartment_#>
+</row>
+<row>
+<row_id>159</row_id>
+<col_uid>1004759</col_uid>
+<col_login>1004758</col_login>
+<col_master_account>1004834</col_master_account>
+<col_full_name>Хохлова Ираида Витальевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-168.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>39</col_Apartment_#>
+</row>
+<row>
+<row_id>160</row_id>
+<col_uid>1004766</col_uid>
+<col_login>1004865</col_login>
+<col_master_account>1004843</col_master_account>
+<col_full_name>Соболев Михаил Федорович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-532.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>252</col_Apartment_#>
+</row>
+<row>
+<row_id>161</row_id>
+<col_uid>1004793</col_uid>
+<col_login>1004793</col_login>
+<col_master_account>1004870</col_master_account>
+<col_full_name>*Старостина Полина Юрьевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-752.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>195</col_Apartment_#>
+</row>
+<row>
+<row_id>162</row_id>
+<col_uid>1004815</col_uid>
+<col_login>1004815</col_login>
+<col_master_account>1004892</col_master_account>
+<col_full_name>Давтян Инга Асатуровна</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>225</col_Apartment_#>
+</row>
+<row>
+<row_id>163</row_id>
+<col_uid>1004845</col_uid>
+<col_login>1004848</col_login>
+<col_master_account>1004923</col_master_account>
+<col_full_name>Можаев Владимир Николаевич</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-48.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>55</col_Apartment_#>
+</row>
+<row>
+<row_id>164</row_id>
+<col_uid>1005002</col_uid>
+<col_login>1005015</col_login>
+<col_master_account>1005088</col_master_account>
+<col_full_name>Агафонова Ольга Алексеевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-266.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>232</col_Apartment_#>
+</row>
+<row>
+<row_id>165</row_id>
+<col_uid>1005004</col_uid>
+<col_login>1005017</col_login>
+<col_master_account>1005090</col_master_account>
+<col_full_name>Морозова Зинаида Ивановна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>211</col_Apartment_#>
+</row>
+<row>
+<row_id>166</row_id>
+<col_uid>1005005</col_uid>
+<col_login>1005018</col_login>
+<col_master_account>1005092</col_master_account>
+<col_full_name>Кучер Сергей Александрович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-328.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>155</col_Apartment_#>
+</row>
+<row>
+<row_id>167</row_id>
+<col_uid>1005023</col_uid>
+<col_login>1005036</col_login>
+<col_master_account>1005112</col_master_account>
+<col_full_name>Пузанов Александр Владимирович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-24.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>163</col_Apartment_#>
+</row>
+<row>
+<row_id>168</row_id>
+<col_uid>1005098</col_uid>
+<col_login>1005111</col_login>
+<col_master_account>1005192</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>152</col_Apartment_#>
+</row>
+<row>
+<row_id>169</row_id>
+<col_uid>1005099</col_uid>
+<col_login>1005112</col_login>
+<col_master_account>1005193</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>156</col_Apartment_#>
+</row>
+<row>
+<row_id>170</row_id>
+<col_uid>1005101</col_uid>
+<col_login>1005114</col_login>
+<col_master_account>1005195</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1600.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>171</col_Apartment_#>
+</row>
+<row>
+<row_id>171</row_id>
+<col_uid>1005102</col_uid>
+<col_login>1005115</col_login>
+<col_master_account>1005196</col_master_account>
+<col_full_name>Рачко Светлана Васильевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-620.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>176</col_Apartment_#>
+</row>
+<row>
+<row_id>172</row_id>
+<col_uid>1005103</col_uid>
+<col_login>1005116</col_login>
+<col_master_account>1005197</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>186</col_Apartment_#>
+</row>
+<row>
+<row_id>173</row_id>
+<col_uid>1005104</col_uid>
+<col_login>1005117</col_login>
+<col_master_account>1005198</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>188</col_Apartment_#>
+</row>
+<row>
+<row_id>174</row_id>
+<col_uid>1005105</col_uid>
+<col_login>1005118</col_login>
+<col_master_account>1005199</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1240.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>189</col_Apartment_#>
+</row>
+<row>
+<row_id>175</row_id>
+<col_uid>1005106</col_uid>
+<col_login>1005119</col_login>
+<col_master_account>1005200</col_master_account>
+<col_full_name>Сухова Светлана Витальевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>193</col_Apartment_#>
+</row>
+<row>
+<row_id>176</row_id>
+<col_uid>1005123</col_uid>
+<col_login>1005136</col_login>
+<col_master_account>1005220</col_master_account>
+<col_full_name>Смолина Лариса Юрьевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>172</col_Apartment_#>
+</row>
+<row>
+<row_id>177</row_id>
+<col_uid>1005150</col_uid>
+<col_login>1005163</col_login>
+<col_master_account>1005249</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1600.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>196</col_Apartment_#>
+</row>
+<row>
+<row_id>178</row_id>
+<col_uid>1005153</col_uid>
+<col_login>1005166</col_login>
+<col_master_account>1005252</col_master_account>
+<col_full_name>Балеевских Сергей Владимирович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>199</col_Apartment_#>
+</row>
+<row>
+<row_id>179</row_id>
+<col_uid>1005156</col_uid>
+<col_login>1005169</col_login>
+<col_master_account>1005255</col_master_account>
+<col_full_name>Калинина Надежда Васильевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-800.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>205</col_Apartment_#>
+</row>
+<row>
+<row_id>180</row_id>
+<col_uid>1005161</col_uid>
+<col_login>1005174</col_login>
+<col_master_account>1005260</col_master_account>
+<col_full_name>Егорова Лидия Алексеевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-800.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>207</col_Apartment_#>
+</row>
+<row>
+<row_id>181</row_id>
+<col_uid>1005162</col_uid>
+<col_login>1005175</col_login>
+<col_master_account>1005261</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1600.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>216</col_Apartment_#>
+</row>
+<row>
+<row_id>182</row_id>
+<col_uid>1005169</col_uid>
+<col_login>1005182</col_login>
+<col_master_account>1005268</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1600.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>109</col_Apartment_#>
+</row>
+<row>
+<row_id>183</row_id>
+<col_uid>1005171</col_uid>
+<col_login>1005184</col_login>
+<col_master_account>1005270</col_master_account>
+<col_full_name>Шамин Александр Владимирович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-20.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>111</col_Apartment_#>
+</row>
+<row>
+<row_id>184</row_id>
+<col_uid>1005487</col_uid>
+<col_login>1005500</col_login>
+<col_master_account>1005588</col_master_account>
+<col_full_name>Попов Максим Александрович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-62.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>178</col_Apartment_#>
+</row>
+<row>
+<row_id>185</row_id>
+<col_uid>1005525</col_uid>
+<col_login>1005538</col_login>
+<col_master_account>1005626</col_master_account>
+<col_full_name>Прогунова Екатерина Александровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>140.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>229</col_Apartment_#>
+</row>
+<row>
+<row_id>186</row_id>
+<col_uid>1005541</col_uid>
+<col_login>1005554</col_login>
+<col_master_account>1005642</col_master_account>
+<col_full_name>Басова Наталия Алексеевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-560.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>147</col_Apartment_#>
+</row>
+<row>
+<row_id>187</row_id>
+<col_uid>1005664</col_uid>
+<col_login>zzz1005677</col_login>
+<col_master_account>1005767</col_master_account>
+<col_full_name>***Калинина Екатерина Николаевна</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>236</col_Apartment_#>
+</row>
+<row>
+<row_id>188</row_id>
+<col_uid>1005761</col_uid>
+<col_login>1005774</col_login>
+<col_master_account>1005865</col_master_account>
+<col_full_name>Пащенко Дмитрий Львович</col_full_name>
+<col_status>Административная блокировка</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>246</col_Apartment_#>
+</row>
+<row>
+<row_id>189</row_id>
+<col_uid>1005763</col_uid>
+<col_login>1005776</col_login>
+<col_master_account>1005868</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1600.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>78</col_Apartment_#>
+</row>
+<row>
+<row_id>190</row_id>
+<col_uid>1005764</col_uid>
+<col_login>1005777</col_login>
+<col_master_account>1005869</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1600.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>75</col_Apartment_#>
+</row>
+<row>
+<row_id>191</row_id>
+<col_uid>1005765</col_uid>
+<col_login>1005778</col_login>
+<col_master_account>1005870</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-392.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>62</col_Apartment_#>
+</row>
+<row>
+<row_id>192</row_id>
+<col_uid>1005766</col_uid>
+<col_login>1005779</col_login>
+<col_master_account>1005871</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1240.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>58</col_Apartment_#>
+</row>
+<row>
+<row_id>193</row_id>
+<col_uid>1005770</col_uid>
+<col_login>1005783</col_login>
+<col_master_account>1005875</col_master_account>
+<col_full_name>Сероштан Олег Евгеньевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>160.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>38</col_Apartment_#>
+</row>
+<row>
+<row_id>194</row_id>
+<col_uid>1005771</col_uid>
+<col_login>1005784</col_login>
+<col_master_account>1005876</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>40</col_Apartment_#>
+</row>
+<row>
+<row_id>195</row_id>
+<col_uid>1005772</col_uid>
+<col_login>1005785</col_login>
+<col_master_account>1005877</col_master_account>
+<col_full_name>Яхьяева Сувар Романовна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>49</col_Apartment_#>
+</row>
+<row>
+<row_id>196</row_id>
+<col_uid>1005773</col_uid>
+<col_login>1005786</col_login>
+<col_master_account>1005878</col_master_account>
+<col_full_name>*Абонент</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-880.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>51</col_Apartment_#>
+</row>
+<row>
+<row_id>197</row_id>
+<col_uid>1005775</col_uid>
+<col_login>1005788</col_login>
+<col_master_account>1005880</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1600.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>90</col_Apartment_#>
+</row>
+<row>
+<row_id>198</row_id>
+<col_uid>1005777</col_uid>
+<col_login>1005790</col_login>
+<col_master_account>1005882</col_master_account>
+<col_full_name>Фролова Татьяна Валентиновна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>88</col_Apartment_#>
+</row>
+<row>
+<row_id>199</row_id>
+<col_uid>1005778</col_uid>
+<col_login>1005791</col_login>
+<col_master_account>1005883</col_master_account>
+<col_full_name>Поникаров Андрей Александрович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-800.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>86</col_Apartment_#>
+</row>
+<row>
+<row_id>200</row_id>
+<col_uid>1005779</col_uid>
+<col_login>1005792</col_login>
+<col_master_account>1005884</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1600.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2 </col_Actual_address>
+<col_Apartment_#>81</col_Apartment_#>
+</row>
+<row>
+<row_id>201</row_id>
+<col_uid>1005946</col_uid>
+<col_login>1006061</col_login>
+<col_master_account>1006061</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1600.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>115</col_Apartment_#>
+</row>
+<row>
+<row_id>202</row_id>
+<col_uid>1005947</col_uid>
+<col_login>1006062</col_login>
+<col_master_account>1006062</col_master_account>
+<col_full_name>Санжарлинский Даниил Дмитриевич</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1340.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>116</col_Apartment_#>
+</row>
+<row>
+<row_id>203</row_id>
+<col_uid>1005948</col_uid>
+<col_login>1006063</col_login>
+<col_master_account>1006063</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1120.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>118</col_Apartment_#>
+</row>
+<row>
+<row_id>204</row_id>
+<col_uid>1005949</col_uid>
+<col_login>1006064</col_login>
+<col_master_account>1006064</col_master_account>
+<col_full_name>Кирюшин Константин Вячеславович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>119</col_Apartment_#>
+</row>
+<row>
+<row_id>205</row_id>
+<col_uid>1005950</col_uid>
+<col_login>1006065</col_login>
+<col_master_account>1006065</col_master_account>
+<col_full_name>Гайнова Мария Александровна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>123</col_Apartment_#>
+</row>
+<row>
+<row_id>206</row_id>
+<col_uid>1005951</col_uid>
+<col_login>1006066</col_login>
+<col_master_account>1006066</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1600.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>127</col_Apartment_#>
+</row>
+<row>
+<row_id>207</row_id>
+<col_uid>1005952</col_uid>
+<col_login>1006067</col_login>
+<col_master_account>1006067</col_master_account>
+<col_full_name>Чулкова Татьяна Александровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>136</col_Apartment_#>
+</row>
+<row>
+<row_id>208</row_id>
+<col_uid>1005953</col_uid>
+<col_login>1006068</col_login>
+<col_master_account>1006068</col_master_account>
+<col_full_name>Ольнев Павел Борисович </col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>137</col_Apartment_#>
+</row>
+<row>
+<row_id>209</row_id>
+<col_uid>1005954</col_uid>
+<col_login>1006069</col_login>
+<col_master_account>1006069</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1240.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>138</col_Apartment_#>
+</row>
+<row>
+<row_id>210</row_id>
+<col_uid>1005955</col_uid>
+<col_login>1006070</col_login>
+<col_master_account>1006070</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>-640.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>142</col_Apartment_#>
+</row>
+<row>
+<row_id>211</row_id>
+<col_uid>1005958</col_uid>
+<col_login>1006073</col_login>
+<col_master_account>1006080</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>1</col_Apartment_#>
+</row>
+<row>
+<row_id>212</row_id>
+<col_uid>1005959</col_uid>
+<col_login>1006074</col_login>
+<col_master_account>1006082</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>2</col_Apartment_#>
+</row>
+<row>
+<row_id>213</row_id>
+<col_uid>1005960</col_uid>
+<col_login>1006075</col_login>
+<col_master_account>1006084</col_master_account>
+<col_full_name>Королева Надежда Сергеевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>4</col_Apartment_#>
+</row>
+<row>
+<row_id>214</row_id>
+<col_uid>1005961</col_uid>
+<col_login>1006076</col_login>
+<col_master_account>1006086</col_master_account>
+<col_full_name>Жуков Сергей Сергеевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>5</col_Apartment_#>
+</row>
+<row>
+<row_id>215</row_id>
+<col_uid>1005962</col_uid>
+<col_login>1006077</col_login>
+<col_master_account>1006087</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>6</col_Apartment_#>
+</row>
+<row>
+<row_id>216</row_id>
+<col_uid>1005963</col_uid>
+<col_login>1006078</col_login>
+<col_master_account>1006088</col_master_account>
+<col_full_name>Борисенкова Галина Константиновна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>8</col_Apartment_#>
+</row>
+<row>
+<row_id>217</row_id>
+<col_uid>1005964</col_uid>
+<col_login>1006079</col_login>
+<col_master_account>1006090</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>9</col_Apartment_#>
+</row>
+<row>
+<row_id>218</row_id>
+<col_uid>1005965</col_uid>
+<col_login>1006080</col_login>
+<col_master_account>1006092</col_master_account>
+<col_full_name>Муханова Светлана Геннадьевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>10</col_Apartment_#>
+</row>
+<row>
+<row_id>219</row_id>
+<col_uid>1005966</col_uid>
+<col_login>1006081</col_login>
+<col_master_account>1006093</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>12</col_Apartment_#>
+</row>
+<row>
+<row_id>220</row_id>
+<col_uid>1005967</col_uid>
+<col_login>1006082</col_login>
+<col_master_account>1006094</col_master_account>
+<col_full_name>Козловская Светлана Павловна </col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>14</col_Apartment_#>
+</row>
+<row>
+<row_id>221</row_id>
+<col_uid>1005968</col_uid>
+<col_login>1006083</col_login>
+<col_master_account>1006095</col_master_account>
+<col_full_name>Фадеев Виктор Владимирович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>16</col_Apartment_#>
+</row>
+<row>
+<row_id>222</row_id>
+<col_uid>1005969</col_uid>
+<col_login>1006084</col_login>
+<col_master_account>1006096</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>17</col_Apartment_#>
+</row>
+<row>
+<row_id>223</row_id>
+<col_uid>1005970</col_uid>
+<col_login>1006085</col_login>
+<col_master_account>1006097</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>20</col_Apartment_#>
+</row>
+<row>
+<row_id>224</row_id>
+<col_uid>1005971</col_uid>
+<col_login>1006086</col_login>
+<col_master_account>1006098</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>21</col_Apartment_#>
+</row>
+<row>
+<row_id>225</row_id>
+<col_uid>1005972</col_uid>
+<col_login>1006087</col_login>
+<col_master_account>1006099</col_master_account>
+<col_full_name>Надежкина Мария Петровна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>23</col_Apartment_#>
+</row>
+<row>
+<row_id>226</row_id>
+<col_uid>1005973</col_uid>
+<col_login>1006088</col_login>
+<col_master_account>1006100</col_master_account>
+<col_full_name>Чернова Галина Николаевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>24</col_Apartment_#>
+</row>
+<row>
+<row_id>227</row_id>
+<col_uid>1005974</col_uid>
+<col_login>1006089</col_login>
+<col_master_account>1006101</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>25</col_Apartment_#>
+</row>
+<row>
+<row_id>228</row_id>
+<col_uid>1005975</col_uid>
+<col_login>1006090</col_login>
+<col_master_account>1006102</col_master_account>
+<col_full_name>Сошникова Ольга Александровна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>26</col_Apartment_#>
+</row>
+<row>
+<row_id>229</row_id>
+<col_uid>1005976</col_uid>
+<col_login>1006091</col_login>
+<col_master_account>1006103</col_master_account>
+<col_full_name>Фигурин Андрей Борисович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-392.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>27</col_Apartment_#>
+</row>
+<row>
+<row_id>230</row_id>
+<col_uid>1005977</col_uid>
+<col_login>1006092</col_login>
+<col_master_account>1006104</col_master_account>
+<col_full_name>Фокина Ирина Викторовна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>28</col_Apartment_#>
+</row>
+<row>
+<row_id>231</row_id>
+<col_uid>1005978</col_uid>
+<col_login>1006093</col_login>
+<col_master_account>1006105</col_master_account>
+<col_full_name>Чистякова Людмила Михайловна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>30</col_Apartment_#>
+</row>
+<row>
+<row_id>232</row_id>
+<col_uid>1005979</col_uid>
+<col_login>1006094</col_login>
+<col_master_account>1006106</col_master_account>
+<col_full_name>Моисеева Лилия Викторовна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>32</col_Apartment_#>
+</row>
+<row>
+<row_id>233</row_id>
+<col_uid>1005980</col_uid>
+<col_login>1006095</col_login>
+<col_master_account>1006107</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>33</col_Apartment_#>
+</row>
+<row>
+<row_id>234</row_id>
+<col_uid>1005981</col_uid>
+<col_login>1006096</col_login>
+<col_master_account>1006108</col_master_account>
+<col_full_name>Ильина Лидия Григорьевна </col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>34</col_Apartment_#>
+</row>
+<row>
+<row_id>235</row_id>
+<col_uid>1005983</col_uid>
+<col_login>1006098</col_login>
+<col_master_account>1006110</col_master_account>
+<col_full_name>Селезнев Сергей Юрьевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>140.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>35</col_Apartment_#>
+</row>
+<row>
+<row_id>236</row_id>
+<col_uid>1005984</col_uid>
+<col_login>1006099</col_login>
+<col_master_account>1006111</col_master_account>
+<col_full_name>Зияев Фарход Раимкулович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>36</col_Apartment_#>
+</row>
+<row>
+<row_id>237</row_id>
+<col_uid>1005985</col_uid>
+<col_login>1006100</col_login>
+<col_master_account>1006112</col_master_account>
+<col_full_name>Курочкин Дмитрий Константинович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>217</col_Apartment_#>
+</row>
+<row>
+<row_id>238</row_id>
+<col_uid>1005986</col_uid>
+<col_login>1006101</col_login>
+<col_master_account>1006113</col_master_account>
+<col_full_name>Сметанкина Марина Владимировна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>218</col_Apartment_#>
+</row>
+<row>
+<row_id>239</row_id>
+<col_uid>1005987</col_uid>
+<col_login>1006102</col_login>
+<col_master_account>1006114</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>219</col_Apartment_#>
+</row>
+<row>
+<row_id>240</row_id>
+<col_uid>1005988</col_uid>
+<col_login>1006103</col_login>
+<col_master_account>1006115</col_master_account>
+<col_full_name>Белец Елена Валентиновна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>221</col_Apartment_#>
+</row>
+<row>
+<row_id>241</row_id>
+<col_uid>1005989</col_uid>
+<col_login>1006104</col_login>
+<col_master_account>1006116</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>222</col_Apartment_#>
+</row>
+<row>
+<row_id>242</row_id>
+<col_uid>1005990</col_uid>
+<col_login>1006105</col_login>
+<col_master_account>1006117</col_master_account>
+<col_full_name>Егорова Татьяна Владимировна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>223</col_Apartment_#>
+</row>
+<row>
+<row_id>243</row_id>
+<col_uid>1005991</col_uid>
+<col_login>1006106</col_login>
+<col_master_account>1006118</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>224</col_Apartment_#>
+</row>
+<row>
+<row_id>244</row_id>
+<col_uid>1005992</col_uid>
+<col_login>1006107</col_login>
+<col_master_account>1006119</col_master_account>
+<col_full_name>Шувалова Елена Геннадьевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-742.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>226</col_Apartment_#>
+</row>
+<row>
+<row_id>245</row_id>
+<col_uid>1005993</col_uid>
+<col_login>1006108</col_login>
+<col_master_account>1006120</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>227</col_Apartment_#>
+</row>
+<row>
+<row_id>246</row_id>
+<col_uid>1005994</col_uid>
+<col_login>1006109</col_login>
+<col_master_account>1006121</col_master_account>
+<col_full_name>Булыгина Альбина Сергеевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>228</col_Apartment_#>
+</row>
+<row>
+<row_id>247</row_id>
+<col_uid>1005995</col_uid>
+<col_login>1006110</col_login>
+<col_master_account>1006122</col_master_account>
+<col_full_name>Шульгина Оксана Николаевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>230</col_Apartment_#>
+</row>
+<row>
+<row_id>248</row_id>
+<col_uid>1005996</col_uid>
+<col_login>1006111</col_login>
+<col_master_account>1006123</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>231</col_Apartment_#>
+</row>
+<row>
+<row_id>249</row_id>
+<col_uid>1005997</col_uid>
+<col_login>1006112</col_login>
+<col_master_account>1006124</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>233</col_Apartment_#>
+</row>
+<row>
+<row_id>250</row_id>
+<col_uid>1005998</col_uid>
+<col_login>1006113</col_login>
+<col_master_account>1006125</col_master_account>
+<col_full_name>Курганская Юлия Валерьевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>237</col_Apartment_#>
+</row>
+<row>
+<row_id>251</row_id>
+<col_uid>1005999</col_uid>
+<col_login>1006114</col_login>
+<col_master_account>1006126</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>239</col_Apartment_#>
+</row>
+<row>
+<row_id>252</row_id>
+<col_uid>1006000</col_uid>
+<col_login>1006115</col_login>
+<col_master_account>1006127</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>240</col_Apartment_#>
+</row>
+<row>
+<row_id>253</row_id>
+<col_uid>1006001</col_uid>
+<col_login>1006116</col_login>
+<col_master_account>1006128</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>241</col_Apartment_#>
+</row>
+<row>
+<row_id>254</row_id>
+<col_uid>1006002</col_uid>
+<col_login>1006117</col_login>
+<col_master_account>1006129</col_master_account>
+<col_full_name>Пасхин Валерий Викторович</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>243</col_Apartment_#>
+</row>
+<row>
+<row_id>255</row_id>
+<col_uid>1006003</col_uid>
+<col_login>1006118</col_login>
+<col_master_account>1006130</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>244</col_Apartment_#>
+</row>
+<row>
+<row_id>256</row_id>
+<col_uid>1006004</col_uid>
+<col_login>1006119</col_login>
+<col_master_account>1006131</col_master_account>
+<col_full_name>Мамаева Светлана Владимировна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>247</col_Apartment_#>
+</row>
+<row>
+<row_id>257</row_id>
+<col_uid>1006005</col_uid>
+<col_login>1006120</col_login>
+<col_master_account>1006132</col_master_account>
+<col_full_name>Щербаков Вячеслав Александрович</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>248</col_Apartment_#>
+</row>
+<row>
+<row_id>258</row_id>
+<col_uid>1006006</col_uid>
+<col_login>1006121</col_login>
+<col_master_account>1006133</col_master_account>
+<col_full_name>Серегина Галина Александровна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>249</col_Apartment_#>
+</row>
+<row>
+<row_id>259</row_id>
+<col_uid>1006007</col_uid>
+<col_login>1006122</col_login>
+<col_master_account>1006134</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-980.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>250</col_Apartment_#>
+</row>
+<row>
+<row_id>260</row_id>
+<col_uid>1006008</col_uid>
+<col_login>1006123</col_login>
+<col_master_account>1006135</col_master_account>
+<col_full_name>Демичева Елена Владимировна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-490.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>251</col_Apartment_#>
+</row>
+<row>
+<row_id>261</row_id>
+<col_uid>1006013</col_uid>
+<col_login>1006128</col_login>
+<col_master_account>1006233</col_master_account>
+<col_full_name>Мингбоев Нурмахмад Умаралиевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>220</col_Apartment_#>
+</row>
+<row>
+<row_id>262</row_id>
+<col_uid>1006014</col_uid>
+<col_login>1006129</col_login>
+<col_master_account>1006234</col_master_account>
+<col_full_name>Боровикова Елена Анатольевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>242</col_Apartment_#>
+</row>
+<row>
+<row_id>263</row_id>
+<col_uid>1006015</col_uid>
+<col_login>1006130</col_login>
+<col_master_account>1006236</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-1240.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>65</col_Apartment_#>
+</row>
+<row>
+<row_id>264</row_id>
+<col_uid>1006321</col_uid>
+<col_login>1006546</col_login>
+<col_master_account>1006546</col_master_account>
+<col_full_name>*Викторова Татьяна Викторовна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-10.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>173</col_Apartment_#>
+</row>
+<row>
+<row_id>265</row_id>
+<col_uid>1006322</col_uid>
+<col_login>1006547</col_login>
+<col_master_account>1006547</col_master_account>
+<col_full_name>Жученков Алексей Николаевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>140</col_Apartment_#>
+</row>
+<row>
+<row_id>266</row_id>
+<col_uid>1006323</col_uid>
+<col_login>1006548</col_login>
+<col_master_account>1006548</col_master_account>
+<col_full_name>Романова Алина Васильевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>112</col_Apartment_#>
+</row>
+<row>
+<row_id>267</row_id>
+<col_uid>1006324</col_uid>
+<col_login>1006549</col_login>
+<col_master_account>1006549</col_master_account>
+<col_full_name>Степанова Светлана Владимировна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>150</col_Apartment_#>
+</row>
+<row>
+<row_id>268</row_id>
+<col_uid>1008072</col_uid>
+<col_login>login295344</col_login>
+<col_master_account>1008299</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-260.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>44</col_Apartment_#>
+</row>
+<row>
+<row_id>269</row_id>
+<col_uid>1008073</col_uid>
+<col_login>login2953108</col_login>
+<col_master_account>1008300</col_master_account>
+<col_full_name>Абонент</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-260.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>108</col_Apartment_#>
+</row>
+<row>
+<row_id>270</row_id>
+<col_uid>1008699</col_uid>
+<col_login>1008932</col_login>
+<col_master_account>1008932</col_master_account>
+<col_full_name>Абрамчик Светлана Николаевна</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>114</col_Apartment_#>
+</row>
+<row>
+<row_id>271</row_id>
+<col_uid>1008718</col_uid>
+<col_login>1008952</col_login>
+<col_master_account>1008952</col_master_account>
+<col_full_name>Карпишина Людмила Григорьевна</col_full_name>
+<col_status>Системная блокировка</col_status>
+<col_ballance>-24.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>183</col_Apartment_#>
+</row>
+<row>
+<row_id>272</row_id>
+<col_uid>1010047</col_uid>
+<col_login>1010283</col_login>
+<col_master_account>1010283</col_master_account>
+<col_full_name>Гнеушев Александр Анатольевич</col_full_name>
+<col_status>Нет</col_status>
+<col_ballance>0.000</col_ballance>
+<col_ip_vpn></col_ip_vpn>
+<col_ip_not_vpn></col_ip_not_vpn>
+<col_Actual_address>Ческа-Липа 2</col_Actual_address>
+<col_Apartment_#>236</col_Apartment_#>
+</row>
+</UTM_export>

@@ -1,0 +1,45 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity= "sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"crossorigin="anonymous"></script> 
+</head>
+<body>
+  <div class="insertFile">
+    <div class="insert">
+      <form enctype="multipart/form-data" method="post" action="upload" style="display: flex; flex-direction: column; align-items: center; width: 60%;">
+        <input type="text" class="form-control" placeholder="Логин" id="login" name="loginName">
+        <input type="password" class="form-control" placeholder="Пароль" id="pass" name="passName" style="margin-bottom: 10px;">
+        <input class="form-control" type="file" name="file">
+        <input type="text" class="form-control" name="enterSum" placeholder="Введите сумму" style="margin: 10px;">
+        <select name="method">
+          <option value="1">Оплата наличными</option>
+          <option value="2">Банковский перевод</option>
+          <option value="3">Оплата через карту</option>
+          <option value="7">Кредит</option>
+          <option value="100">Сбербанк-Онлайн</option>
+          <option value="101">Почта РФ</option>
+        </select>
+        <textarea type="text" class="form-control" name="comments" style="resize: none; margin: 10px;"></textarea> 
+        <button type="submit" class="btn btn-secondary">Отправить</button>
+      </form>
+    </div>
+  </div>
+<script type="module" src="js/front.js"></script>
+<script>
+  var dropdownElementList = [].slice.call(document.querySelectorAll('.dropdown-toggle'))
+  var dropdownList = dropdownElementList.map(function (dropdownToggleEl) { 
+    return new bootstrap.Dropdown(dropdownToggleEl)
+  })
+  function selectPaymentMethod(button) {
+    var dropdownButton = document.getElementById('dropdownMenu2');
+    dropdownButton.innerHTML = button.innerHTML;
+    console.log(dropdownButton);
+  }
+</script>
+</body>
+</html>
