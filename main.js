@@ -16,7 +16,6 @@ const pool = mariadb.createPool({
 
 const app = express();
 
-// Очередь для платежей
 let paymentQueue = [];
 
 app.use(express.static('public'));
@@ -29,12 +28,11 @@ app.get('', (req, res) => {
   res.sendFile(path.join(__dirname, 'views/index.html'));
 });
 
-// Функция для обработки платежей из очереди
 async function processPayments() {
   let failedPayments = [];
   
   while (paymentQueue.length > 0) {
-    const payment = paymentQueue.shift(); // Извлекаем первый платеж из очереди
+    const payment = paymentQueue.shift();
     
     try {
       const output = await processPayment(payment);
@@ -48,7 +46,6 @@ async function processPayments() {
   return failedPayments;
 }
 
-// Функция для обработки одного платежа
 function processPayment(payment) {
   return new Promise((resolve, reject) => {
     const { spawn } = require('child_process');
@@ -121,7 +118,6 @@ app.post('/upload', async (req, res) => {
         return res.send('Ошибка парсинга!');
       }
 
-      // Добавляем платежи в очередь
       result['UTM_export']['row'].forEach(element => {
         const uids = element["col_uid"][0];
         paymentQueue.push({
@@ -134,10 +130,8 @@ app.post('/upload', async (req, res) => {
         });
       });
 
-      // Запускаем обработку платежей
       processPayments().then(failedPayments => {
         if (failedPayments.length > 0) {
-          // Формируем строку с неуспешными платежами
           const failedPaymentsString = failedPayments.map(payment => `Платеж ${payment.uid}`).join(', ');
           res.send(`Не удалось обработать следующие платежи: ${failedPaymentsString}`);
         } else {
